@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=iNitiator
+GenericName=iNitiator
+Comment=Begin with some good programs
+Exec=initiator
+Terminal=false
+Type=Application
+Icon=/opt/initiator-1.0/initiator.png
+Categories=System;
+Keywords=ezgui;installer;systeminstaller;system;programs;
