@@ -5,6 +5,6 @@ Comment=Begin with some good programs
 Exec=initiator
 Terminal=false
 Type=Application
-Icon=/opt/initiator-initiator-1.1/initiator.png
+Icon=/opt/initiator-initiator-1.2/initiator.png
 Categories=System;
 Keywords=ezgui;installer;systeminstaller;system;programs;
